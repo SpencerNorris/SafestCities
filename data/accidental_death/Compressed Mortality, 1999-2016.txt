@@ -1,0 +1,252 @@
+"Notes"	"2013 CBSA"	"2013 CBSA Code"	Deaths	Population	Crude Rate	Age Adjusted Rate
+	"Akron, OH"	"10420"	4879	12625850	38.6	36.8
+	"Albany-Schenectady-Troy, NY"	"10580"	3818	15466849	24.7	22.5
+	"Albuquerque, NM"	"10740"	9101	15049954	60.5	60.7
+	"Allentown-Bethlehem-Easton, PA-NJ"	"10900"	5955	14352019	41.5	37.5
+	"Amarillo, TX"	"11100"	1986	4424674	44.9	45.5
+	"Anchorage, AK"	"11260"	2902	6547472	44.3	49.3
+	"Ann Arbor, MI"	"11460"	1613	6179200	26.1	28.1
+	"Asheville, NC"	"11700"	4152	7379094	56.3	49.3
+	"Atlanta-Sandy Springs-Roswell, GA"	"12060"	31056	90449335	34.3	38.0
+	"Atlantic City-Hammonton, NJ"	"12100"	2204	4830144	45.6	44.2
+	"Augusta-Richmond County, GA-SC"	"12260"	4433	9876079	44.9	45.4
+	"Austin-Round Rock, TX"	"12420"	10118	28983975	34.9	39.6
+	"Bakersfield, CA"	"12540"	6231	14181056	43.9	47.6
+	"Baltimore-Columbia-Towson, MD"	"12580"	13500	48206323	28.0	27.3
+	"Baton Rouge, LA"	"12940"	6503	13890020	46.8	48.1
+	"Beaumont-Port Arthur, TX"	"13140"	3777	7225487	52.3	51.9
+	"Birmingham-Hoover, AL"	"13820"	10581	19871028	53.2	52.7
+	"Boise City, ID"	"14260"	3571	10427242	34.2	35.7
+	"Boston-Cambridge-Newton, MA-NH"	"14460"	24763	81601562	30.3	28.5
+	"Boulder, CO"	"14500"	2197	5340377	41.1	45.3
+	"Bremerton-Silverdale, WA"	"14740"	1596	4433423	36.0	35.0
+	"Bridgeport-Stamford-Norwalk, CT"	"14860"	5160	16394845	31.5	29.7
+	"Brownsville-Harlingen, TX"	"15180"	1571	6929145	22.7	24.4
+	"Buffalo-Cheektowaga-Niagara Falls, NY"	"15380"	6413	20634485	31.1	28.1
+	"Canton-Massillon, OH"	"15940"	3039	7287867	41.7	37.6
+	"Cape Coral-Fort Myers, FL"	"15980"	6203	10452739	59.3	52.6
+	"Cedar Rapids, IA"	"16300"	1733	4545321	38.1	35.8
+	"Charleston-North Charleston, SC"	"16700"	4992	11505391	43.4	44.1
+	"Charlotte-Concord-Gastonia, NC-SC"	"16740"	14988	37458020	40.0	41.8
+	"Chattanooga, TN-GA"	"16860"	4358	9249007	47.1	45.5
+	"Chicago-Naperville-Elgin, IL-IN-WI"	"16980"	49159	168325749	29.2	29.5
+	"Cincinnati, OH-KY-IN"	"17140"	16512	37467088	44.1	44.2
+	"Clarksville, TN-KY"	"17300"	1873	4479204	41.8	46.9
+	"Cleveland-Elyria, OH"	"17460"	13707	37752896	36.3	33.8
+	"Colorado Springs, CO"	"17820"	4444	11137645	39.9	43.8
+	"Columbia, SC"	"17900"	5870	13175878	44.6	45.4
+	"Columbus, GA-AL"	"17980"	2102	5297158	39.7	40.7
+	"Columbus, OH"	"18140"	12275	33290879	36.9	38.4
+	"Corpus Christi, TX"	"18580"	3145	7636005	41.2	41.8
+	"Dallas-Fort Worth-Arlington, TX"	"19100"	33819	110544476	30.6	33.7
+	"Davenport-Moline-Rock Island, IA-IL"	"19340"	2584	6800374	38.0	35.2
+	"Dayton, OH"	"19380"	8322	14447964	57.6	55.4
+	"Deltona-Daytona Beach-Ormond Beach, FL"	"19660"	5275	10239302	51.5	48.2
+	"Denver-Aurora-Lakewood, CO"	"19740"	18156	44331118	41.0	44.0
+	"Des Moines-West Des Moines, IA"	"19780"	3381	9881430	34.2	34.6
+	"Detroit-Warren-Dearborn, MI"	"19820"	27751	78654041	35.3	34.4
+	"Duluth, MN-WI"	"20260"	2545	5004136	50.9	44.7
+	"Durham-Chapel Hill, NC"	"20500"	3114	8748691	35.6	35.9
+	"El Paso, TX"	"21340"	4185	13798307	30.3	32.7
+	"Erie, PA"	"21500"	2088	5031304	41.5	39.2
+	"Eugene, OR"	"21660"	2994	6186619	48.4	44.5
+	"Evansville, IN-KY"	"21780"	2600	5525055	47.1	44.2
+	"Fayetteville, NC"	"22180"	2628	6426652	40.9	44.8
+	"Fayetteville-Springdale-Rogers, AR-MO"	"22220"	3006	7810873	38.5	39.8
+	"Flint, MI"	"22420"	2968	7729286	38.4	38.4
+	"Fort Collins, CO"	"22660"	1927	5225574	36.9	37.4
+	"Fort Smith, AR-OK"	"22900"	2388	4883412	48.9	48.9
+	"Fort Wayne, IN"	"23060"	2823	7382877	38.2	38.0
+	"Fresno, CA"	"23420"	6284	16109944	39.0	41.9
+	"Gainesville, FL"	"23540"	1894	4613396	41.1	44.3
+	"Grand Rapids-Wyoming, MI"	"24340"	6709	17699673	37.9	38.3
+	"Greeley, CO"	"24540"	1778	4258691	41.7	45.3
+	"Green Bay, WI"	"24580"	1988	5414576	36.7	35.8
+	"Greensboro-High Point, NC"	"24660"	5915	12604885	46.9	46.0
+	"Greenville-Anderson-Mauldin, SC"	"24860"	7661	14351469	53.4	52.7
+	"Gulfport-Biloxi-Pascagoula, MS"	"25060"	4275	6706617	63.7	65.0
+	"Hagerstown-Martinsburg, MD-WV"	"25180"	1857	4312705	43.1	42.3
+	"Harrisburg-Carlisle, PA"	"25420"	3662	9678213	37.8	35.7
+	"Hartford-West Hartford-East Hartford, CT"	"25540"	8438	21461428	39.3	35.9
+	"Hickory-Lenoir-Morganton, NC"	"25860"	3500	6424802	54.5	53.3
+	"Houston-The Woodlands-Sugar Land, TX"	"26420"	34720	101331417	34.3	38.3
+	"Huntington-Ashland, WV-KY-OH"	"26580"	4257	6528934	65.2	63.4
+	"Huntsville, AL"	"26620"	2700	7115660	37.9	38.7
+	"Indianapolis-Carmel-Anderson, IN"	"26900"	11629	32939176	35.3	36.1
+	"Jackson, MS"	"27140"	4420	10005118	44.2	45.1
+	"Jacksonville, FL"	"27260"	10930	23292157	46.9	47.0
+	"Kalamazoo-Portage, MI"	"28020"	2574	5840910	44.1	43.4
+	"Kansas City, MO-KS"	"28140"	13300	35220967	37.8	37.8
+	"Kennewick-Richland, WA"	"28420"	1379	4251915	32.4	34.9
+	"Killeen-Temple, TX"	"28660"	2353	6870431	34.2	37.3
+	"Kingsport-Bristol-Bristol, TN-VA"	"28700"	3045	5482591	55.5	51.7
+	"Knoxville, TN"	"28940"	8694	14602847	59.5	57.0
+	"Lafayette, LA"	"29180"	3867	8200910	47.2	48.2
+	"Lakeland-Winter Haven, FL"	"29460"	5242	10292483	50.9	49.1
+	"Lancaster, PA"	"29540"	3634	9108737	39.9	37.3
+	"Lansing-East Lansing, MI"	"29620"	2750	8320952	33.0	33.9
+	"Laredo, TX"	"29700"	1179	4227741	27.9	32.0
+	"Las Vegas-Henderson-Paradise, NV"	"29820"	12811	32448616	39.5	40.6
+	"Lexington-Fayette, KY"	"30460"	3804	8189765	46.4	47.1
+	"Lincoln, NE"	"30700"	1602	5303577	30.2	30.6
+	"Little Rock-North Little Rock-Conway, AR"	"30780"	5127	12131813	42.3	42.5
+	"Los Angeles-Long Beach-Anaheim, CA"	"31080"	51928	230389970	22.5	22.9
+	"Louisville/Jefferson County, KY-IN"	"31140"	9718	21656473	44.9	44.5
+	"Lubbock, TX"	"31180"	2353	5075381	46.4	48.9
+	"Lynchburg, VA"	"31340"	2011	4409496	45.6	42.1
+	"Madison, WI"	"31540"	4173	10617266	39.3	39.0
+	"Manchester-Nashua, NH"	"31700"	2587	7140546	36.2	36.0
+	"McAllen-Edinburg-Mission, TX"	"32580"	2930	12903062	22.7	24.8
+	"Memphis, TN-MS-AR"	"32820"	10382	23240503	44.7	46.7
+	"Merced, CA"	"32900"	1858	4410116	42.1	46.9
+	"Miami-Fort Lauderdale-West Palm Beach, FL"	"33100"	37342	98965609	37.7	34.8
+	"Milwaukee-Waukesha-West Allis, WI"	"33340"	13724	27701147	49.5	46.8
+	"Minneapolis-St. Paul-Bloomington, MN-WI"	"33460"	20865	59060084	35.3	36.6
+	"Mobile, AL"	"33660"	3711	7320274	50.7	51.2
+	"Modesto, CA"	"33700"	3811	9025208	42.2	44.1
+	"Montgomery, AL"	"33860"	2783	6554269	42.5	42.9
+	"Myrtle Beach-Conway-North Myrtle Beach, SC-NC"	"34820"	3586	6291478	57.0	57.4
+	"Naples-Immokalee-Marco Island, FL"	"34940"	3050	5577421	54.7	48.0
+	"Nashville-Davidson--Murfreesboro--Franklin, TN"	"34980"	13785	28789534	47.9	49.7
+	"New Haven-Milford, CT"	"35300"	6374	15294293	41.7	37.8
+	"New Orleans-Metairie, LA"	"35380"	11427	22599954	50.6	50.6
+	"New York-Newark-Jersey City, NY-NJ-PA"	"35620"	89016	350505486	25.4	24.4
+	"North Port-Sarasota-Bradenton, FL"	"35840"	6787	12301144	55.2	50.2
+	"Norwich-New London, CT"	"35980"	2003	4842786	41.4	39.0
+	"Ocala, FL"	"36100"	3968	5593272	70.9	62.9
+	"Ogden-Clearfield, UT"	"36260"	3180	10172408	31.3	35.7
+	"Oklahoma City, OK"	"36420"	10586	21907918	48.3	49.5
+	"Olympia-Tumwater, WA"	"36500"	1690	4315530	39.2	37.9
+	"Omaha-Council Bluffs, NE-IA"	"36540"	4826	15125277	31.9	33.0
+	"Orlando-Kissimmee-Sanford, FL"	"36740"	14071	36598657	38.4	38.4
+	"Oxnard-Thousand Oaks-Ventura, CA"	"37100"	4317	14508263	29.8	30.0
+	"Palm Bay-Melbourne-Titusville, FL"	"37340"	5163	9534289	54.2	50.0
+	"Pensacola-Ferry Pass-Brent, FL"	"37860"	3690	8019921	46.0	45.8
+	"Peoria, IL"	"37900"	2583	6726650	38.4	35.7
+	"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD"	"37980"	44275	106004908	41.8	40.1
+	"Phoenix-Mesa-Scottsdale, AZ"	"38060"	31567	71259632	44.3	45.0
+	"Pittsburgh, PA"	"38300"	21487	42786147	50.2	44.6
+	"Portland-South Portland, ME"	"38860"	3735	9189623	40.6	37.9
+	"Portland-Vancouver-Hillsboro, OR-WA"	"38900"	14031	38802305	36.2	36.1
+	"Port St. Lucie, FL"	"38940"	3645	7137653	51.1	47.3
+	"Providence-Warwick, RI-MA"	"39300"	11658	28872395	40.4	36.6
+	"Provo-Orem, UT"	"39340"	2306	8716146	26.5	35.2
+	"Raleigh, NC"	"39580"	5816	18726744	31.1	34.8
+	"Reading, PA"	"39740"	2641	7195334	36.7	33.9
+	"Reno, NV"	"39900"	3054	7290022	41.9	42.0
+	"Richmond, VA"	"40060"	8003	21046257	38.0	38.1
+	"Riverside-San Bernardino-Ontario, CA"	"40140"	21472	71562879	30.0	31.5
+	"Roanoke, VA"	"40220"	2496	5436453	45.9	42.0
+	"Rochester, NY"	"40380"	6029	19345310	31.2	28.6
+	"Rockford, IL"	"40420"	2783	6082770	45.8	44.9
+	"Sacramento--Roseville--Arden-Arcade, CA"	"40900"	12936	37285686	34.7	34.4
+	"St. Louis, MO-IL"	"41180"	23221	49541012	46.9	45.4
+	"Salem, OR"	"41420"	2723	6827503	39.9	38.2
+	"Salinas, CA"	"41500"	2292	7445393	30.8	31.8
+	"Salisbury, MD-DE"	"41540"	2617	6435204	40.7	38.7
+	"Salt Lake City, UT"	"41620"	6330	18889750	33.5	38.2
+	"San Antonio-New Braunfels, TX"	"41700"	14016	36635907	38.3	40.3
+	"San Diego-Carlsbad, CA"	"41740"	16609	54665674	30.4	30.1
+	"San Francisco-Oakland-Hayward, CA"	"41860"	21404	77464278	27.6	26.2
+	"San Jose-Sunnyvale-Santa Clara, CA"	"41940"	7394	32640337	22.7	23.3
+	"San Luis Obispo-Paso Robles-Arroyo Grande, CA"	"42020"	1793	4756823	37.7	35.3
+	"Santa Cruz-Watsonville, CA"	"42100"	1596	4679980	34.1	33.3
+	"Santa Maria-Santa Barbara, CA"	"42200"	2435	7529180	32.3	31.4
+	"Santa Rosa, CA"	"42220"	2794	8587373	32.5	30.1
+	"Savannah, GA"	"42340"	2506	6010550	41.7	42.3
+	"Scranton--Wilkes-Barre--Hazleton, PA"	"42540"	4924	10073856	48.9	45.2
+	"Seattle-Tacoma-Bellevue, WA"	"42660"	20787	60389605	34.4	34.5
+	"Shreveport-Bossier City, LA"	"43340"	3682	7777221	47.3	46.6
+	"South Bend-Mishawaka, IN-MI"	"43780"	2142	5728087	37.4	36.1
+	"Spartanburg, SC"	"43900"	2933	5476055	53.6	53.1
+	"Spokane-Spokane Valley, WA"	"44060"	5268	9185708	57.3	54.1
+	"Springfield, MA"	"44140"	3526	11154049	31.6	29.8
+	"Springfield, MO"	"44180"	3867	7511056	51.5	50.0
+	"Stockton-Lodi, CA"	"44700"	4803	11877799	40.4	42.3
+	"Syracuse, NY"	"45060"	4533	11829668	38.3	35.8
+	"Tallahassee, FL"	"45220"	2366	6361301	37.2	39.5
+	"Tampa-St. Petersburg-Clearwater, FL"	"45300"	27030	48653674	55.6	50.2
+	"Toledo, OH"	"45780"	4522	11031944	41.0	40.1
+	"Trenton, NJ"	"45940"	1893	6536429	29.0	27.8
+	"Tucson, AZ"	"46060"	8640	16938659	51.0	48.8
+	"Tulsa, OK"	"46140"	8695	16478278	52.8	52.9
+	"Urban Honolulu, HI"	"46520"	5327	16832407	31.6	29.0
+	"Utica-Rome, NY"	"46540"	1792	5367579	33.4	29.1
+	"Vallejo-Fairfield, CA"	"46700"	2254	7434244	30.3	30.9
+	"Virginia Beach-Norfolk-Newport News, VA-NC"	"47260"	9493	29854379	31.8	32.9
+	"Visalia-Porterville, CA"	"47300"	3023	7552146	40.0	43.4
+	"Waco, TX"	"47380"	1730	4441994	38.9	38.8
+	"Washington-Arlington-Alexandria, DC-VA-MD-WV"	"47900"	24220	98382207	24.6	26.3
+	"Wichita, KS"	"48620"	5121	11032508	46.4	46.2
+	"Wilmington, NC"	"48900"	1896	4345487	43.6	42.2
+	"Winston-Salem, NC"	"49180"	5223	11146868	46.9	45.7
+	"Worcester, MA-CT"	"49340"	5523	16262459	34.0	32.4
+	"York-Hanover, PA"	"49620"	3352	7521904	44.6	42.7
+	"Youngstown-Warren-Boardman, OH-PA"	"49660"	4987	10353629	48.2	44.8
+	"small metro"	"99400"	224517	500758326	44.8	43.3
+	"micropolitan"	"99500"	251452	480925937	52.3	50.1
+	"noncore"	"99600"	213409	341568968	62.5	59.1
+"Total"			2177884	5435162436	40.1	39.2
+"---"
+"Dataset: Compressed Mortality, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 CBSA: All"
+"2013 Metro/Nonmetro: All"
+"2013 Urbanization: All"
+"Age Group: All"
+"Gender: All"
+"Hispanic Origin: All"
+"Injury Intent: Unintentional"
+"Injury Mechanism & All Other Leading Causes: All"
+"Race: All"
+"Year: All, 1999 to 2016"
+"Group By: 2013 CBSA"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Nov 20, 2018 2:06:26 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2016 on CDC WONDER Online Database, released June 2017. Data are from the Compressed Mortality File 1999-2016 Series 20 No."
+"2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Nov 20, 2018 2:06:26 PM"
+"---"
+Caveats:
+"1. About national population figures: population figures for 1999 are from the 1990-1999 series of bridged-race intercensal"
+"estimates of the July 1 resident population; population figures for 2000 and 2010 are bridged-race April 1 census counts;"
+"population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race intercensal estimates of the July 1"
+"resident population; population figures for 2011 are bridged-race postcensal estimates of the July 1 resident population, from"
+"the Vintage 2011 series released by NCHS on July 18, 2012; population figures for 2012 are bridged-race postcensal estimates of"
+"the July 1 resident population, from the Vintage 2012 series released by NCHS on June 13, 2013; population figures for 2013 are"
+"bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2013 series released by NCHS on June 26,"
+"2014; population figures for 2014 are bridged-race postcensal estimates of the July 1 resident population, from the Vintage 2014"
+"series released by NCHS on June 30, 2015. and population figures for 2015 are bridged-race postcensal estimates of the July 1"
+"resident population, from the Vintage 2015 series released by NCHS on June 28, 2016. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Population Information."
+"2. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"7. 2013 CBSA shows data for core based statistical areas (CBSAs) of 250,000 or more population delineated in the June 2013 OMB"
+"classification of counties as metropolitan or nonmetropolitan (micropolitan or noncore)."
+"8. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#California-Reporting-Anomalies."
+"9. Circumstances in Georgia for the years 2008-2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data. More"
+"information: http://wonder.cdc.gov/wonder/help/cmf.html#Georgia-Reporting-Anomalies."
+"10. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death"
+"code R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10"
+"codes, most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/cmf.html#New-Jersey-Reporting-Anomalies."
